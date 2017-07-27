@@ -1,0 +1,25 @@
+body {
+  background-color: #f5f1d3;
+  color: #333;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+h1 {
+    text-align: left;
+    font-weight: bold;
+    padding: 5px 5px 5px 15px;
+    font-size: 24px;
+    margin: -7px;
+    margin-bottom: 0;
+    color: #394d6e;
+  }
